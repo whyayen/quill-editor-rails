@@ -9,10 +9,8 @@ Gem::Specification.new do |spec|
   spec.summary       = %q{The quill editor for rails}
   spec.description   = %q{You could use quill editor in rails via importing quill in application.js directly}
   spec.homepage      = "https://github.com/yanzijun/quill-editor-rails"
-  spec.license       = "BSD"
+  spec.license       = "BSD-3-Clause"
   spec.required_ruby_version = Gem::Requirement.new(">= 2.3.0")
-
-  spec.metadata["allowed_push_host"] = "TODO: Set to 'http://mygemserver.com'"
 
   spec.metadata["homepage_uri"] = spec.homepage
   spec.metadata["source_code_uri"] = "https://github.com/yanzijun/quill-editor-rails"
