@@ -1,4 +1,5 @@
 # Quill Editor Rails
+[![Gem Version](https://badge.fury.io/rb/quill-editor-rails.svg)](https://badge.fury.io/rb/quill-editor-rails)
 
 This gem adds a lastest version of [Quill Rich Text Editor](https://quilljs.com/docs/quickstart/) to Rails. And the gem just wrap `quill.min.js`, `quill.bubble.scss` and `quill.snow.scss`. You can also use alternative gems like [quilljs-rails](https://github.com/abhinavmathur/quilljs-rails) or [quill-rails5](https://github.com/paul-at/quill-rails5) if you need view_helper or something else to help you render Quill editor easily.
 
