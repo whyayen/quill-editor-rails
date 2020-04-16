@@ -26,9 +26,9 @@ Or install it yourself as:
 //= require quill.min
 ```
 
-- app/assets/stylesheets/application.scss
+- app/assets/stylesheets/application.css.scss
 ```
-@import 'quill.snow.css';
+@import 'quill.snow';
 // or
-@import 'quill.bubble.css';
+@import 'quill.bubble';
 ```
